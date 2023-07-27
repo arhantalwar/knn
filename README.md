@@ -9,5 +9,5 @@ Dependencies:
 
 ```console
 $ ./build.sh
-$ ./main.c
+$ ./main
 ```
